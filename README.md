@@ -1,6 +1,6 @@
 # Pig Game
 
-<p><b>My first javascript project</b></p>
+<p><b>Another javascript project</b></p>
 
 Tutorial from <a href="https://www.udemy.com/course/the-complete-javascript-course"><b>Jonas Schmedtmann</b></a>
 
