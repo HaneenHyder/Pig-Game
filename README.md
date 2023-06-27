@@ -1,4 +1,4 @@
-# Guess My Number
+# Pig Game
 
 <p><b>My first javascript project</b></p>
 
